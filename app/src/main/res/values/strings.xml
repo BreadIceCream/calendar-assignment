@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">智能日历</string>
+    
+    <!-- 通用 -->
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="confirm">确定</string>
+    <string name="close">关闭</string>
+    <string name="back">返回</string>
+    
+    <!-- 日历视图 -->
+    <string name="today">今天</string>
+    <string name="month_view">月视图</string>
+    <string name="week_view">周视图</string>
+    <string name="day_view">日视图</string>
+    <string name="previous_month">上一月</string>
+    <string name="next_month">下一月</string>
+    <string name="no_events">暂无日程</string>
+    
+    <!-- 星期 -->
+    <string name="monday">周一</string>
+    <string name="tuesday">周二</string>
+    <string name="wednesday">周三</string>
+    <string name="thursday">周四</string>
+    <string name="friday">周五</string>
+    <string name="saturday">周六</string>
+    <string name="sunday">周日</string>
+    
+    <!-- 日程管理 -->
+    <string name="new_event">新建日程</string>
+    <string name="edit_event">编辑日程</string>
+    <string name="event_detail">日程详情</string>
+    <string name="event_title">标题</string>
+    <string name="event_title_required">标题 *</string>
+    <string name="event_location">地点</string>
+    <string name="event_description">备注</string>
+    <string name="event_start_time">开始时间</string>
+    <string name="event_end_time">结束时间</string>
+    <string name="all_day">全天</string>
+    <string name="event_color">颜色</string>
+    
+    <!-- 提醒 -->
+    <string name="reminder">提醒</string>
+    <string name="no_reminder">不提醒</string>
+    <string name="at_event_time">事件发生时</string>
+    <string name="before_10_min">提前10分钟</string>
+    <string name="before_30_min">提前30分钟</string>
+    <string name="before_1_hour">提前1小时</string>
+    <string name="before_1_day">提前1天</string>
+    
+    <!-- 删除确认 -->
+    <string name="delete_event_title">删除日程</string>
+    <string name="delete_event_message">确定要删除这个日程吗？此操作无法撤销。</string>
+    
+    <!-- 验证错误 -->
+    <string name="error_title_required">请输入日程标题</string>
+    <string name="error_end_before_start">结束时间不能早于开始时间</string>
+    
+    <!-- 通知 -->
+    <string name="notification_channel_name">日程提醒</string>
+    <string name="notification_channel_description">日程事件的提醒通知</string>
+    <string name="event_reminder">日程提醒</string>
+    <string name="event_starting_soon">日程即将开始</string>
+    
+    <!-- 订阅 -->
+    <string name="from_subscription">此日程来自订阅日历</string>
+</resources>
